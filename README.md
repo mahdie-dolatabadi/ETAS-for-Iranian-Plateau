@@ -10,7 +10,7 @@ In the ETAS model, the parameters governing the occurrence of aftershocks—such
 📩 **Contact:** [s_ommi@sbu.ac.ir](mailto:s_ommi@sbu.ac.ir)  
 
 🐍 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)  
-🔵 ![R](https://img.shields.io/badge/R-Language-blue?logo=r)  
+🔵 ![R](https://img.shields.io/badge/R-4.3.2-blue?logo=r)  
 
 🖥 **Software Requirements:** Python 3.8, R 4.3.2 
 
