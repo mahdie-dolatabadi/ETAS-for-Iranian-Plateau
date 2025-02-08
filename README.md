@@ -4,8 +4,7 @@ The Epidemic-Type Aftershock Sequence (ETAS) model is a widely used framework fo
 # Estimation of  Model Parameters Using Maximum Likelihood Estimation (MLE)
 In the ETAS model, the parameters governing the occurrence of aftershocks—such as the triggering rate, the decay of aftershock frequency over time, and the spatial distribution of aftershocks—are typically estimated using Maximum Likelihood Estimation (MLE). MLE is a statistical method used to find the set of parameters that maximize the likelihood of the observed seismic data under the model. By optimizing the likelihood function, MLE allows for precise estimation of the model's parameters, which can then be used to generate forecasts for future aftershock activity. 
 
-#### Name of the code: ETAS-for-Iranian-Plateau
-# Project Title  
+# ETAS-for-Iranian-Plateau
 
 📩 **Contact:** [s_ommi@sbu.ac.ir](mailto:s_ommi@sbu.ac.ir)  
 
