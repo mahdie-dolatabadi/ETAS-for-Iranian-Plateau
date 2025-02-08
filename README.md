@@ -15,7 +15,7 @@ In the ETAS model, the parameters governing the occurrence of aftershocks—such
 🖥 **Software Requirements:** Python 3.8, R 4.3.2 
 
 📂 **Source Code:** The full implementation is available on GitHub:  
-🔗 [GitHub Repository]()  
+🔗 [GitHub Repository](https://github.com/mahdie-dolatabadi/ETAS-for-Iranian-Plateau.git)  
 
 📊 **Data Availability:** The dataset used in this project (**./data**) is included in the repository.  
 
